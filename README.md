@@ -23,7 +23,7 @@ I'm a Computer Science engineering student with a passion for building real, usa
 - 🛠️ Building full-stack projects — from AI tools to portfolio systems
 - 🌱 Deepening my knowledge in React, backend development, and ML fundamentals
 - 🤝 Open to collaboration, internships, and interesting problems
-- - 🧠 Proficient in using AI tools to accelerate development and solve problems creatively
+- 🧠 Proficient in using AI tools to accelerate development and solve problems creatively
 
 ---
 
