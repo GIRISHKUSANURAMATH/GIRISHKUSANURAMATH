@@ -22,8 +22,8 @@ I'm a Computer Science engineering student with a passion for building real, usa
 - 🎓 Currently pursuing my B.E. in Computer Science
 - 🛠️ Building full-stack projects — from AI tools to portfolio systems
 - 🌱 Deepening my knowledge in React, backend development, and ML fundamentals
+- 🤖 Leverage AI tools to build smarter, faster — from prototyping to production
 - 🤝 Open to collaboration, internships, and interesting problems
-- 🧠 Proficient in using AI tools to accelerate development and solve problems creatively
 
 ---
 
@@ -35,12 +35,23 @@ I'm a Computer Science engineering student with a passion for building real, usa
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **Backend & Data**
 
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat-square&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white)
 
 ---
 
@@ -104,4 +115,3 @@ I'm always open to a good conversation — whether it's about a project idea, an
 *Thanks for stopping by. Feel free to explore my repos — something might catch your eye.*
 
 </div>
-
