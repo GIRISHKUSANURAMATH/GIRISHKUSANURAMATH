@@ -105,7 +105,6 @@ I'm always open to a good conversation — whether it's about a project idea, an
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/girish-kusanuramath/)
 - 📸 [Instagram](https://www.instagram.com/girish__kusanuramath/)
-- 🌐 [Portfolio](https://girish-kusanuramath-portfolio.netlify.app/)
 - 💻 [GitHub](https://github.com/GIRISHKUSANURAMATH)
 
 ---
