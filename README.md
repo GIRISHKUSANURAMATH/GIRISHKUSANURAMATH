@@ -8,8 +8,11 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girish-kusanuramath/)
+[![Portfolio](https://girish-kusanuramath-portfolio.vercel.app/)]
+(https://girish-kusanuramath-portfolio.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/girish__kusanuramath/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GIRISHKUSANURAMATH)
+
 
 </div>
 
@@ -104,6 +107,7 @@ A structured reference guide covering key coding interview patterns and solution
 I'm always open to a good conversation — whether it's about a project idea, an opportunity, or just tech.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/girish-kusanuramath/)
+-     [portfolio](https://girish-kusanuramath-portfolio.vercel.app/)
 - 📸 [Instagram](https://www.instagram.com/girish__kusanuramath/)
 - 💻 [GitHub](https://github.com/GIRISHKUSANURAMATH)
 
